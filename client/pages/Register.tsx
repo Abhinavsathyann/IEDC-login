@@ -154,7 +154,7 @@ const Register = () => {
               <h1 className="text-2xl font-bold text-white mb-2">
                 Create Account
               </h1>
-              <p className="text-purple-100">Join KPTC E-IEDC community</p>
+              <p className="text-purple-100"></p>
             </div>
 
             {error && (
