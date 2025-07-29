@@ -262,8 +262,8 @@ const Register = () => {
                   <MapPin className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 w-5 h-5" />
                   <Input
                     type="text"
-                    name="REF"
-                    value={formData.location}
+                    name="location"
+                    // value={formData.location}
                     onChange={handleInputChange}
                     placeholder="*"
                     className="pl-10 bg-white/10 border-white/20 text-white placeholder-gray-300"
