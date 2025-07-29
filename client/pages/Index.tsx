@@ -56,23 +56,7 @@ const Index = () => {
       icon: Calendar,
       color: "from-purple-500 to-pink-600",
       lightColor: "from-purple-50 to-pink-50",
-    },
-    {
-      title: "Revenue",
-      value: "₹45,680",
-      change: "+18%",
-      icon: DollarSign,
-      color: "from-green-500 to-emerald-600",
-      lightColor: "from-green-50 to-emerald-50",
-    },
-    {
-      title: "Growth Rate",
-      value: "23.4%",
-      change: "+5.2%",
-      icon: TrendingUp,
-      color: "from-orange-500 to-red-600",
-      lightColor: "from-orange-50 to-red-50",
-    },
+    }
   ];
 
   const recentActivities = [

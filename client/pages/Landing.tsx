@@ -92,7 +92,7 @@ const Landing = () => {
                   Student Portal
                 </h2>
                 <p className="text-purple-100 mb-6">
-                  Access learning resources, events, and innovation programs
+                 Access exclusive learning resources, event registrations, and innovation-driven programs designed for E-Cell members.
                 </p>
 
                 <div className="space-y-3 mb-6">
