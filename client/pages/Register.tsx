@@ -176,7 +176,7 @@ const Register = () => {
                     name="name"
                     value={formData.name}
                     onChange={handleInputChange}
-                    placeholder="John Doe"
+                    placeholder="Name"
                     className="pl-10 bg-white/10 border-white/20 text-white placeholder-gray-300"
                     required
                   />
@@ -194,7 +194,7 @@ const Register = () => {
                     name="email"
                     value={formData.email}
                     onChange={handleInputChange}
-                    placeholder="john@kptciedc.edu"
+                    placeholder="Example@mail.com"
                     className="pl-10 bg-white/10 border-white/20 text-white placeholder-gray-300"
                     required
                   />
@@ -212,7 +212,7 @@ const Register = () => {
                     name="phone"
                     value={formData.phone}
                     onChange={handleInputChange}
-                    placeholder="+91 9876543210"
+                    placeholder="+91 0000000000"
                     className="pl-10 bg-white/10 border-white/20 text-white placeholder-gray-300"
                     required
                   />
