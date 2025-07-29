@@ -106,7 +106,7 @@ const AdminLogin = () => {
                     type="email"
                     value={email}
                     onChange={(e) => setEmail(e.target.value)}
-                    placeholder="admin@kptciedc.edu"
+                    placeholder=""
                     className="pl-10 bg-white/10 border-white/20 text-white placeholder-gray-300"
                     required
                   />
