@@ -138,7 +138,7 @@ const Landing = () => {
           {/* Footer */}
           <div className="text-center mt-16">
             <p className="text-purple-200 text-sm">
-              © 2024 KPTC E-IEDC. All rights reserved.
+              © 2025 KPTC E-CELL. All rights reserved.
             </p>
           </div>
         </div>
