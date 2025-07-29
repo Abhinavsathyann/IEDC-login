@@ -81,12 +81,12 @@ const AdminLogin = () => {
               <p className="text-purple-100">Access the admin dashboard</p>
             </div>
 
-            {/* Demo credentials info */}
+            {/* Demo credentials info
             <div className="bg-blue-500/20 border border-blue-400/30 rounded-lg p-4 mb-6">
               <h3 className="text-white font-medium mb-2">Demo Credentials:</h3>
               <p className="text-blue-100 text-sm">Email: admin@kptciedc.edu</p>
               <p className="text-blue-100 text-sm">Password: admin123</p>
-            </div>
+            </div> */}
 
             {error && (
               <div className="bg-red-500/20 border border-red-400/30 rounded-lg p-4 mb-6 flex items-center">
