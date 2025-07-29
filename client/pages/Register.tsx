@@ -263,7 +263,7 @@ const Register = () => {
                   <Input
                     type="text"
                     name="location"
-                    value={formData.location}
+                    // value={formData.location}
                     onChange={handleInputChange}
                     placeholder="*"
                     className="pl-10 bg-white/10 border-white/20 text-white placeholder-gray-300"
